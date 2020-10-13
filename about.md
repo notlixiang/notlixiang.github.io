@@ -24,8 +24,9 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+title: 关于我
 ---
 
-### 一点介绍
+# 关于本站
 
 测试
