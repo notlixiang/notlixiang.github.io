@@ -25,12 +25,12 @@ titles:
   # @end locale config
 key: page-about
 title: 关于我
-# pageview: true
+pageview: true
 ---
 
 <!--
  * @Date: 2020-04-21 08:06:52
- * @LastEditTime: 2020-10-13 15:49:13
+ * @LastEditTime: 2020-10-13 16:13:39
  * @LastEditors: Li Xiang
  * @Description: 
  * @FilePath: \notlixiang.github.io\about.md
