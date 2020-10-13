@@ -137,9 +137,11 @@ comments:
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
-    app_id      : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI # LeanCloud App id
-    app_key     : glkD0dhpOD8gNOA5axXfqjXl # LeanCloud App key
-    placeholder : # Prompt information
+    # app_id      : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI # LeanCloud App id
+    # app_key     : glkD0dhpOD8gNOA5axXfqjXl # LeanCloud App key
+    app_id      : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI
+    app_key     : glkD0dhpOD8gNOA5axXfqjXl
+    placeholder : "Say something :"
     visitor     : # false (default)
     meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
@@ -151,9 +153,12 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI # LeanCloud App id
-    app_key   : glkD0dhpOD8gNOA5axXfqjXl # LeanCloud App key
-    app_class : gitpage # LeanCloud App class
+    # app_id    : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI # LeanCloud App id
+    # app_key   : glkD0dhpOD8gNOA5axXfqjXl # LeanCloud App key
+    # app_class : gitpage # LeanCloud App class
+    app_id    : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI
+    app_key   : glkD0dhpOD8gNOA5axXfqjXl
+    app_class : gitpage
 
 
 ## => Search
