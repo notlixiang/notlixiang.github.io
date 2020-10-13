@@ -118,8 +118,8 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  # provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
-  provider: valine
+  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
+  # provider: valine
 
   ## Disqus
   disqus:
@@ -230,3 +230,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
