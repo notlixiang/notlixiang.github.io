@@ -158,7 +158,7 @@ pageview:
     # app_class : gitpage # LeanCloud App class
     app_id    : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI
     app_key   : glkD0dhpOD8gNOA5axXfqjXl
-    app_class : gitpage
+    app_class : VisitCount
 
 
 ## => Search
