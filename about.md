@@ -25,14 +25,15 @@ titles:
   # @end locale config
 key: page-about
 title: 关于我
+pageview: true
 ---
 
 <!--
  * @Date: 2020-04-21 08:06:52
- * @LastEditTime: 2020-10-13 14:33:44
+ * @LastEditTime: 2020-10-13 15:19:53
  * @LastEditors: Li Xiang
  * @Description: 
  * @FilePath: \notlixiang.github.io\about.md
 -->
 
-首先做个小小的自我介绍。
+机器人方向硕士。
