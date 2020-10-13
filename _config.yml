@@ -140,8 +140,8 @@ comments:
   valine:
     # app_id      : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI # LeanCloud App id
     # app_key     : glkD0dhpOD8gNOA5axXfqjXl # LeanCloud App key
-    app_id      : SGsx4AehqPYcEDufXX2inbSc-MdYXbMMI
-    app_key     : 87kWIGgB1AOgltXeVxYfqIa6
+    app_id      : zRGCo3JerztBAxS4MpQhI9H3-9Nh9j0Va
+    app_key     : BUzV3RmklbsrORWuhJT5WVJ2
     placeholder : "Say something :"
     visitor     : # false (default)
     meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
@@ -157,8 +157,8 @@ pageview:
     # app_id    : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI # LeanCloud App id
     # app_key   : glkD0dhpOD8gNOA5axXfqjXl # LeanCloud App key
     # app_class : gitpage # LeanCloud App class
-    app_id    : 4K9PJo7fz5afNAmydWqRpcIO-MdYXbMMI
-    app_key   : glkD0dhpOD8gNOA5axXfqjXl
+    app_id    : zRGCo3JerztBAxS4MpQhI9H3-9Nh9j0Va
+    app_key   : BUzV3RmklbsrORWuhJT5WVJ2
     app_class : VisitCount
 
 
