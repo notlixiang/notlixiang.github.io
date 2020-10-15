@@ -6,7 +6,7 @@ toc: false
 ---
 <!--
  * @Date: 2020-10-15 08:52:41
- * @LastEditTime: 2020-10-15 22:51:36
+ * @LastEditTime: 2020-10-15 23:08:51
  * @LastEditors: Li Xiang
  * @Description: 
  * @FilePath: /notlixiang.github.io/_pages/about.md
@@ -31,7 +31,7 @@ toc: false
 
 硕士阶段的成就除了领毕业证以外，比较有意思的就是和师兄弟们带着实验室里搭的移动抓取机器人去京东薅了30W奖金(下方视频为决赛记录)，还有就是某日风和日丽灵光涌现然后断断续续鼓捣四个月水了篇[机器人顶会](https://www.iros2019.org/ "iros2019")。
 
-<iframe width="640" height="400" src="//player.bilibili.com/player.html?aid=584975624&bvid=BV1Ez4y1o7SJ&cid=245969406&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?aid=584975624&bvid=BV1Ez4y1o7SJ&cid=245969406&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 现在的话已经毕业，从ME转进CS，坐标上海，即将开始暗无天日的996社畜生活，理想是能早日实现财富自由<strike>大误</strike>。
 
