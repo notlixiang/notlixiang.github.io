@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Li Xiang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar_cat.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Information is everything."
   location         : "Shanghai, China"
   email            : # "lixiang3.1416@qq.com"
