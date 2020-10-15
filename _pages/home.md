@@ -11,11 +11,11 @@ header:
     - label: "关于我"
       url: "/about/"
 excerpt: >
-  随便翻翻吧说不定有你想要的。 
+  不嫌弃的话就随便翻翻。 
 ---
 <!--
  * @Date: 2020-10-15 08:13:53
- * @LastEditTime: 2020-10-15 15:38:27
+ * @LastEditTime: 2020-10-15 21:03:51
  * @LastEditors: Li Xiang
  * @Description: 
  * @FilePath: /notlixiang.github.io/_pages/home.md
