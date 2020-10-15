@@ -4,7 +4,7 @@ permalink: /home/
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/home.jpg
+  overlay_image: /assets/images/home_grey.jpg
   actions:
     - label: "关于本站"
       url: "/welcome/"
@@ -15,7 +15,7 @@ excerpt: >
 ---
 <!--
  * @Date: 2020-10-15 08:13:53
- * @LastEditTime: 2020-10-15 10:42:14
+ * @LastEditTime: 2020-10-15 15:38:27
  * @LastEditors: Li Xiang
  * @Description: 
  * @FilePath: /notlixiang.github.io/_pages/home.md

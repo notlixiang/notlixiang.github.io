@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Information is everything."
   location         : "Shanghai, China"
-  email            : "lixiang3.1416@qq.com"
+  email            : # "lixiang3.1416@qq.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
