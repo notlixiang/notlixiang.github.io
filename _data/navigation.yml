@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
   
   - title: "Home"
-    url: /
+    url: /home/
   # - title: "Pets"
   #   url: /pets/
   - title: "Categories"
