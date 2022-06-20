@@ -8,7 +8,7 @@ toc: false
 
 <!--
  * @Date: 2020-04-21 08:06:52
- * @LastEditTime: 2022-06-20 22:39:57
+ * @LastEditTime: 2022-06-20 22:40:58
  * @LastEditors: Li Xiang
  * @Description: 
  * @FilePath: \notlixiang.github.io\_posts\2022-06-20-tesla-ai-day.md
@@ -34,6 +34,7 @@ toc: false
 另一张示意图对Tesla感知模型的transformer构造原理进行了更详细的解析，附上medium链接供参考原文。
 
 ![](https://raw.githubusercontent.com/notlixiang/notlixiang.github.io/master/_posts/images/2022-06-20-22-04-53.png)
+[source](https://medium.com/towards-data-science/monocular-bev-perception-with-transformers-in-autonomous-driving-c41e4a893944a)
 
 据笔者所知，Tesla是第一家公开利用transformer实现自动驾驶bev感知方案的厂商(当然别的厂商也没公开过)，后续在学界和业界都引起了一阵transformer bev感知的风潮(nuscenes榜单上vision track的top都是bev方案，大部分都与transformer相关)。
 
