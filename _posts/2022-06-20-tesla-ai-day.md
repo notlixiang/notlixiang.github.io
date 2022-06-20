@@ -8,7 +8,7 @@ toc: false
 
 <!--
  * @Date: 2020-04-21 08:06:52
- * @LastEditTime: 2022-06-20 22:05:15
+ * @LastEditTime: 2022-06-20 22:27:41
  * @LastEditors: Li Xiang
  * @Description: 
  * @FilePath: \notlixiang.github.io\_posts\2022-06-20-tesla-ai-day.md
@@ -29,11 +29,11 @@ toc: false
 
 其模型部分主要具有以下特点：多任务共享主干(RegNet+BiFPN)，利用transformer互注意力将主干提取的多相机图像特征转换到BEV表示中(Vector Space)，并在时间维度进行融合。
 
-![](images/2022-06-20-22-04-00.png)
+![](https://raw.githubusercontent.com/notlixiang/notlixiang.github.io/master/_posts/images/2022-06-20-22-04-00.png)
 
 另一张示意图对Tesla感知模型的transformer构造原理进行了更详细的解析，附上medium链接供参考原文。
 
-![](images/2022-06-20-22-04-53.png)
+![](https://raw.githubusercontent.com/notlixiang/notlixiang.github.io/master/_posts/images/2022-06-20-22-04-53.png)
 
 据笔者所知，Tesla是第一家公开利用transformer实现自动驾驶bev感知方案的厂商(当然别的厂商也没公开过)，后续在学界和业界都引起了一阵transformer bev感知的风潮(nuscenes榜单上vision track的top都是bev方案，大部分都与transformer相关)。
 
