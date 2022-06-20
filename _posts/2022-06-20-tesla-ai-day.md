@@ -8,7 +8,7 @@ toc: false
 
 <!--
  * @Date: 2020-04-21 08:06:52
- * @LastEditTime: 2022-06-20 22:27:41
+ * @LastEditTime: 2022-06-20 22:39:57
  * @LastEditors: Li Xiang
  * @Description: 
  * @FilePath: \notlixiang.github.io\_posts\2022-06-20-tesla-ai-day.md
@@ -21,7 +21,7 @@ toc: false
     } 
 </style>
 
-[[youtube link](https://www.youtube.com/watch?v=j0z4FweCy4M&ab_channel=Tesla)]
+[[Youtube Link](https://www.youtube.com/watch?v=j0z4FweCy4M&ab_channel=Tesla)]
 
 鸽了好久，先从简单的内容开始写吧。
 
